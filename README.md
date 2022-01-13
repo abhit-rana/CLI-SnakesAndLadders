@@ -1,2 +1,1 @@
-# CLI-SnakesAndLadders
- this program was created for as an assignment for the Advanced Programming Course at IIITD[(https://www.iiitd.ac.in/)]
+this is a program for the command line Sankes and Ladders game where the objective is the number of coins with which player win the game with snakes, elevators and ladders distributed over the path.
